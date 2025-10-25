@@ -645,7 +645,7 @@ mindmap
 
 <br>
 
-**Made with ❤️, ☕, and countless hours of debugging by Saurabh Arimardan Pandey**
+**Made with ❤️, ☕, and countless hours of debugging by  Arimardan Pandey Saurabh **
 
 
 

@@ -8,13 +8,13 @@
 
 <h2 align="center"><b>Building Production-Ready Applications with AI Integration 💻✨</b></h2> 
 
-<p align="center"><b>Full Stack Developer | MERN Stack Specialist | 350+ DSA Problems Solved | AI Integration Expert | Building Scalable Applications | Next.js & TypeScript Enthusiast | Open to SDE Opportunities | Razorpay & GenAI Integration | Event-Driven Architecture | 7th Sem CSE(AI & ML) | CGPA: 7.5/10 | Galgotias College | Real-Time Features Developer | Production Apps Builder | Problem Solving Addict 🧠 | Always Learning, Always Growing 🚀</b></p>
+<p align="center"><b>Full Stack Developer | MERN Stack Specialist | 350+ DSA Problems Solved | AI Integration  | Building Scalable Applications | Next.js & TypeScript Enthusiast | Open to SDE Opportunities | Razorpay & GenAI Integration | Event-Driven Architecture | 7th Sem CSE(AI & ML) | CGPA: 7.5/10 | Galgotias College | Real-Time Features Developer | Production Apps Builder | Problem Solving Addict 🧠 | Always Learning, Always Growing 🚀</b></p>
 
 <p align="center">
  <a href="https://linkedin.com/in/yourprofile" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
  </a>
- <a href="https://github.com/yourusername" target="_blank">
+ <a href="https://github.com/theapsaurabh" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
  </a>
  <a href="https://leetcode.com/yourprofile" target="_blank">
@@ -260,19 +260,19 @@ const saurabh = {
 
 <div align="center">
   
-<a href="https://github.com/yourusername">
+<a href="https://github.com/theapsaurabh">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/theapsaurabh">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" alt="GitHub Streak" />
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/theapsaurabh">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/theapsaurabh">
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Contribution Graph" />
 </a>
 
@@ -372,7 +372,7 @@ mindmap
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/theapsaurabh/theapsaurabh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -380,10 +380,10 @@ mindmap
 ## 📌 Pinned Repositories
 
 <p align="center">
-    <a href="https://github.com/yourusername/sagemate">
+    <a href="https://github.com/theapsaurabh/sagemate">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=sagemate&theme=tokyonight&icon_color=6366F1&text_color=6366F1&bg_color=0D1117&hide_border=true" />
     </a>
-    <a href="https://github.com/yourusername/prescripto">
+    <a href="https://github.com/theapsaurabh/prescripto">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=prescripto&theme=tokyonight&icon_color=6366F1&text_color=6366F1&bg_color=0D1117&hide_border=true" />
     </a>
 </p>
@@ -405,7 +405,7 @@ mindmap
  <a href="https://linkedin.com/in/yourprofile" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
- <a href="https://github.com/yourusername" target="_blank">
+ <a href="https://github.com/theapsaurabh" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
  </a>
  <a href="https://leetcode.com/yourprofile" target="_blank">
@@ -440,14 +440,14 @@ mindmap
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?theapsaurabh=theapsaurabh&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
-<a href="https://github.com/yourusername?tab=followers">
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=6366f1" alt="GitHub Followers" />
+<a href="https://github.com/theapsaurabh?tab=followers">
+  <img src="https://img.shields.io/github/followers/theapsaurabh?label=Followers&style=for-the-badge&color=6366f1" alt="GitHub Followers" />
 </a>
 
-<a href="https://github.com/yourusername?tab=stars">
-  <img src="https://img.shields.io/github/stars/yourusername?label=Stars&style=for-the-badge&color=fbbf24" alt="GitHub Stars" />
+<a href="https://github.com/theapsaurabh?tab=stars">
+  <img src="https://img.shields.io/github/stars/theapsaurabh?label=Stars&style=for-the-badge&color=fbbf24" alt="GitHub Stars" />
 </a>
 
 </div>

@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src=pngtree-freelancer-software-developer-programmer-coder-illustrator-png-image_16198325.png />
+<img src=pngtree-freelancer-software-developer-programmer-coder-illustrator-png-image_16198325.png height="500px" weight= "500px"/>
 
 </div>
 

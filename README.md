@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Saurabh%20Arimardan%20Pandey&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+<img src=pngtree-freelancer-software-developer-programmer-coder-illustrator-png-image_16198325.png />
 
 </div>
 

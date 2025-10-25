@@ -4,32 +4,41 @@
 
 </div>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Saurabh (Full Stack Developer)</b></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Saurabh</b></h1>
 
-<h2 align="center"><b>Building Production-Ready Applications with AI Integration 💻✨</b></h2> 
+<h2 align="center"><b>Aspiring Full Stack Developer | Building the Future, One Line at a Time 💻✨</b></h2> 
 
-<p align="center"><b>Full Stack Developer | MERN Stack Specialist | 350+ DSA Problems Solved | AI Integration  | Building Scalable Applications | Next.js & TypeScript Enthusiast | Open to SDE Opportunities | Razorpay & GenAI Integration | Event-Driven Architecture | 7th Sem CSE(AI & ML) | CGPA: 7.5/10 | Galgotias College | Real-Time Features Developer | Production Apps Builder | Problem Solving Addict 🧠 | Always Learning, Always Growing 🚀</b></p>
+<p align="center"><b>Aspiring MERN Stack Developer | 350+ DSA Problems Solved 🧠 | AI Integration Enthusiast 🤖 | Building Production-Ready Applications 🚀 | Next.js & TypeScript Explorer | Open to SDE Opportunities | Razorpay & GenAI Integration | Event-Driven Architecture | 7th Sem CSE(AI & ML) Student | CGPA: 7.5/10 | Galgotias College of Engineering | Real-Time Features Developer | Passionate Problem Solver | Always Learning, Always Growing 🌱 | Turning Ideas into Reality through Code 💡</b></p>
 
 <p align="center">
- <a href="https://linkedin.com/in/yourprofile" target="_blank">
+ <a href="https://www.linkedin.com/in/saurabh-pandey-b52240269" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
  </a>
- <a href="https://github.com/theapsaurabh" target="_blank">
+ <a href="https://github.com/Theapsaurabh" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
  </a>
- <a href="https://leetcode.com/yourprofile" target="_blank">
+ <a href="https://leetcode.com/u/Theapsaurabh13/" target="_blank">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
  </a>
- <a href="https://auth.geeksforgeeks.org/user/yourprofile" target="_blank">
+ <a href="https://www.geeksforgeeks.org/user/theampsaurabh/" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" />
+ </a>
+ <a href="https://x.com/ampsaurabh" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+ </a>
+ <a href="https://www.instagram.com/theapsaurabh/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
  </a>
  <a href="mailto:ampsaurabh88877@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
  </a>
- <a href="https://your-portfolio.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
- </a>
 </p>
+
+<div align="center">
+  
+### 🌟 *"Aspiring to build impactful solutions that make a difference"* 🌟
+
+</div>
 
 ---
 
@@ -39,96 +48,142 @@
 
 ```javascript
 const saurabh = {
+    currentStatus: "🎓 Final Year Student (7th Sem)",
     location: "Greater Noida, Uttar Pradesh, India 🇮🇳",
-    education: "B.Tech CSE (AI & ML) | GCET",
-    currentRole: "Final Year Student | Seeking SDE Roles",
-    expertise: ["MERN Stack", "AI Integration", "Real-Time Apps"],
-    currentlyLearning: ["System Design", "Docker", "AWS"],
-    achievement: "350+ DSA Problems Solved",
-    projects: ["SageMate (AI Mental Health)", "Prescripto (Healthcare)"],
-    lookingFor: "Full Stack Developer | SDE Opportunities",
-    availableFor: "Freelance | Collaborations | Open Source",
-    funFact: "I debug with console.log and I'm proud! 😄"
+    education: "B.Tech CSE (AI & ML) | GCET | CGPA: 7.5/10",
+    aspiration: "Aspiring MERN Stack Developer",
+    expertise: ["Full Stack Development", "AI Integration", "DSA"],
+    currentlyBuilding: ["SageMate", "Prescripto", "Real-time Apps"],
+    currentlyLearning: ["System Design", "DevOps", "Cloud Tech"],
+    achievement: "350+ DSA Problems Conquered 🏆",
+    experience: "IBM SkillBuild Frontend Intern",
+    lookingFor: "SDE Opportunities | Internships | Collaborations",
+    availableFor: "Freelance | Open Source | Learning Together",
+    mindset: "Growth-oriented, Curious, Persistent",
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
 
-- 🔥 **Full Stack Developer** specializing in MERN stack with AI integration
-- 💻 Built **2+ production-ready applications** with GenAI, Razorpay, Inngest
-- 🧠 Solved **350+ DSA problems** on LeetCode & GeeksforGeeks
-- 🚀 Expertise in **Next.js, TypeScript, Event-Driven Architecture**
-- 🎓 **B.Tech CSE (AI & ML)** | CGPA: 7.5/10 | Graduating Aug 2026
-- 🌱 Currently learning **System Design, Docker, and Cloud Technologies**
-- 💬 Ask me about **React, Node.js, MongoDB, AI Integration**
+### 🚀 Quick Highlights
+
+- 🎓 **Final Year Student** pursuing B.Tech in CSE (AI & ML) at GCET
+- 💻 **Aspiring MERN Stack Developer** with hands-on production experience
+- 🤖 Built **AI-powered mental health platform** (SageMate) with GenAI integration
+- 🏥 Developed **full-stack healthcare system** (Prescripto) with payment gateway
+- 🧠 Solved **350+ DSA problems** across LeetCode & GeeksforGeeks
+- 🔥 Strong foundation in **Next.js, TypeScript, Event-Driven Architecture**
+- 🎯 **IBM SkillBuild Certified** Frontend Developer
+- 🌱 Constantly learning and evolving in the tech space
+- 💬 Ask me about **React, Node.js, MongoDB, DSA, AI Integration**
 - 📫 Reach me: **ampsaurabh88877@gmail.com** | **+91-7355018077**
-- ⚡ Fun fact: **Started coding in 2022, haven't stopped since!**
+- ⚡ Life Motto: **"Learn → Build → Ship → Repeat"**
 
 ---
 
 ## 💼 Featured Projects
 
+<div align="center">
+
+### 🎯 Projects That I'm Proud Of
+
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### 🧠 SageMate - AI Mental Health Companion
 
-<a href="https://your-sagemate-demo.com" target="_blank">
-  <img src="https://img.shields.io/badge/LIVE-DEMO-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/STATUS-LIVE-success?style=for-the-badge&logo=vercel&logoColor=white" />
+
+</div>
+
+<div align="center">
+
+<a href="https://sagemate-frontend.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-6366F1?style=for-the-badge&logoColor=white" />
 </a>
-<a href="https://github.com/yourusername/sagemate" target="_blank">
-  <img src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Theapsaurabh/sagemate" target="_blank">
+  <img src="https://img.shields.io/badge/📂_VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-**Tech Stack:**  
+</div>
+
+**🛠️ Tech Stack:**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![GenAI](https://img.shields.io/badge/GenAI-4285F4?style=flat-square&logo=google&logoColor=white)
+![GenAI](https://img.shields.io/badge/Google_GenAI-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Inngest](https://img.shields.io/badge/Inngest-6366F1?style=flat-square&logo=appveyor&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
 
-**Key Features:**
-- 🤖 **AI-Powered Therapy** with Google GenAI integration
-- 📊 **Analytics Dashboard** with mood tracking & metrics
-- 🔒 **Enterprise Security** with JWT & bcrypt encryption
-- ⚡ **Event-Driven Architecture** using Inngest
-- 🎯 **Real-Time Coping Strategies** & therapeutic exercises
-- 📈 **Personalized Goal Management** system
+**✨ Key Features:**
+- 🤖 **AI-Powered Therapy Sessions** with Google GenAI
+- 📊 **Interactive Analytics Dashboard** with mood tracking
+- 🔒 **Enterprise-Grade Security** (JWT + bcrypt encryption)
+- ⚡ **Event-Driven Architecture** using Inngest for async tasks
+- 🎯 **Real-Time Coping Strategies** & personalized guidance
+- 📈 **Goal Management System** with progress tracking
+- 💬 **Context-Aware Therapeutic Dialogues**
 
-**Impact:**
-- Personalized therapy sessions for mental wellness
-- Real-time emotional support & guidance
-- HIPAA-inspired privacy protocols
+**🌟 Impact:**
+> *"Building a safe space for mental wellness with AI-driven personalized support"*
+
+**🎓 What I Learned:**
+- AI integration in production apps
+- Event-driven architecture patterns
+- Secure authentication flows
+- Real-time data processing
 
 </td>
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### 🏥 Prescripto - Doctor Appointment System
 
-<a href="https://your-prescripto-demo.com" target="_blank">
-  <img src="https://img.shields.io/badge/LIVE-DEMO-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/STATUS-LIVE-success?style=for-the-badge&logo=vercel&logoColor=white" />
+
+</div>
+
+<div align="center">
+
+<a href="https://prescripto-frontend.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-6366F1?style=for-the-badge&logoColor=white" />
 </a>
-<a href="https://github.com/yourusername/prescripto" target="_blank">
-  <img src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Theapsaurabh/prescripto" target="_blank">
+  <img src="https://img.shields.io/badge/📂_VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-**Tech Stack:**  
+</div>
+
+**🛠️ Tech Stack:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-**Key Features:**
-- 📅 **Appointment Booking** with date/time selection
-- 💳 **Secure Payments** via Razorpay integration
-- 👥 **Role-Based Dashboards** (Patient/Doctor/Admin)
-- 🔐 **JWT Authentication** & authorization
-- 📊 **Analytics Overview** for admins
-- ⚡ **Optimized MongoDB Queries** for performance
+**✨ Key Features:**
+- 📅 **Smart Appointment Booking** with real-time availability
+- 💳 **Secure Payment Integration** via Razorpay
+- 👥 **Multi-Role Dashboards** (Patient/Doctor/Admin)
+- 🔐 **JWT Authentication** & role-based access control
+- 📊 **Admin Analytics Panel** with insights
+- ⚡ **Optimized MongoDB Queries** for fast performance
+- 📱 **Responsive Design** for all devices
 
-**Impact:**
-- Seamless healthcare appointment management
-- Secure payment processing
-- Improved doctor-patient coordination
+**🌟 Impact:**
+> *"Simplifying healthcare access with seamless appointment management and secure payments"*
+
+**🎓 What I Learned:**
+- Payment gateway integration
+- Role-based authorization
+- State management at scale
+- RESTful API design
+- Database query optimization
 
 </td>
 </tr>
@@ -138,13 +193,29 @@ const saurabh = {
 
 ## ❤️ I Code on (DSA Platforms)
 
-<p align="left"> 
-<a href="https://leetcode.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="40px" /></a>
-<a href="https://auth.geeksforgeeks.org/user/yourprofile" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="40px" /></a>
-<a href="https://www.codechef.com/users/yourprofile" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="40px" /></a>
-<a href="https://codeforces.com/profile/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="40px" /></a>
-<a href="https://www.hackerrank.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" height="40px" /></a>
+<div align="center">
+
+### 🏆 Where I Sharpen My Problem-Solving Skills
+
+<p align="center"> 
+<a href="https://leetcode.com/u/Theapsaurabh13/" target="_blank">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="45px" />
+</a>
+<a href="https://www.geeksforgeeks.org/user/theampsaurabh/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="45px" />
+</a>
+<a href="https://www.codechef.com/" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="45px" />
+</a>
+<a href="https://codeforces.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="45px" />
+</a>
+<a href="https://www.hackerrank.com/" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" height="45px" />
+</a>
 </p>
+
+</div>
 
 ---
 
@@ -152,14 +223,19 @@ const saurabh = {
 
 <div align="center">
 
+### 🎯 My Journey So Far
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
 | 🎯 Metric | 📈 Achievement | 🔥 Status |
 |-----------|----------------|-----------|
-| 💻 **DSA Problems Solved** | ![](https://img.shields.io/badge/350+-6366F1?style=flat-square&logo=leetcode&logoColor=white) | **Active** |
-| 🚀 **Production Apps** | ![](https://img.shields.io/badge/2+-10B981?style=flat-square&logo=vercel&logoColor=white) | **Live** |
-| 🔧 **Technologies Mastered** | ![](https://img.shields.io/badge/20+-F59E0B?style=flat-square&logo=stackshare&logoColor=white) | **Growing** |
-| 📜 **Certifications** | ![](https://img.shields.io/badge/IBM+SkillsBuild-EF4444?style=flat-square&logo=ibm&logoColor=white) | **Certified** |
-| ⭐ **GitHub Contributions** | ![](https://img.shields.io/badge/Active-FBBF24?style=flat-square&logo=github&logoColor=white) | **Daily** |
-| 🎓 **CGPA** | ![](https://img.shields.io/badge/7.5%2F10-059669?style=flat-square&logo=google-scholar&logoColor=white) | **Academic** |
+| 💻 **DSA Problems Solved** | ![350+](https://img.shields.io/badge/350+-6366F1?style=flat-square&logo=leetcode&logoColor=white) | **Grinding Daily** 🔥 |
+| 🚀 **Production Apps Built** | ![2+ Apps](https://img.shields.io/badge/2+_Live_Apps-10B981?style=flat-square&logo=vercel&logoColor=white) | **Deployed & Running** ✅ |
+| 🔧 **Technologies Mastered** | ![20+](https://img.shields.io/badge/20+_Tech_Stack-F59E0B?style=flat-square&logo=stackshare&logoColor=white) | **Still Exploring** 🌱 |
+| 📜 **Certifications Earned** | ![IBM Certified](https://img.shields.io/badge/IBM_SkillsBuild-EF4444?style=flat-square&logo=ibm&logoColor=white) | **Certified Developer** 🎓 |
+| ⭐ **GitHub Activity** | ![Active](https://img.shields.io/badge/Daily_Commits-FBBF24?style=flat-square&logo=github&logoColor=white) | **Building Publicly** 🏗️ |
+| 🎓 **Academic Performance** | ![7.5/10 CGPA](https://img.shields.io/badge/7.5%2F10_CGPA-059669?style=flat-square&logo=google-scholar&logoColor=white) | **Consistent Learner** 📚 |
+| 💼 **Internship Experience** | ![IBM](https://img.shields.io/badge/IBM_Intern-0F62FE?style=flat-square&logo=ibm&logoColor=white) | **Frontend Dev** 💻 |
 
 </div>
 
@@ -169,264 +245,345 @@ const saurabh = {
 
 <div align="center">
 
-### LeetCode Progress
-<a href="https://leetcode.com/yourprofile" target="_blank">
-<img src="https://leetcard.jacoblin.cool/yourprofile?theme=dark&font=Ubuntu&ext=activity" alt="LeetCode Stats" width="500"/>
-</a>
+### 📊 My Coding Journey in Numbers
 
-### GeeksforGeeks Stats
-![GFG Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=yourprofile&theme=dark)
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%">
 
-</div>
+**🌟 Academic Highlights:**
+- Consistent performer with 7.5 CGPA
+- Strong foundation in DSA and core CS subjects
+- Active participation in coding clubs
+- Focus on practical implementation
+- Building projects alongside academics
 
-**🚀 My DSA Journey:**
-- ✅ **350+ Problems Solved** across LeetCode & GeeksforGeeks
-- 🔥 **Consistent Practice** with focus on quality over quantity
-- 💡 **Strong Foundation** in Arrays, Trees, Graphs, DP, Greedy
-- 🎯 **Problem-Solving Approach:** Understand → Optimize → Code
-- 📈 **Growing Streak** of daily coding practice
-
----
-
-## 🛠️ Technical Skills
-
-<div align="center">
-
-### Languages & Core
-<table align="center">
-  <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" /><br><b>JavaScript</b></td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="55" height="55" /><br><b>TypeScript</b></td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" /><br><b>C++</b></td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="55" height="55" /><br><b>HTML5</b></td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="55" height="55" /><br><b>CSS3</b></td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=sql" width="55" height="55" /><br><b>SQL</b></td>
-  </tr>
+</td>
+</tr>
 </table>
-
-### Frontend Development
-<table align="center">
-  <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="55" height="55" /><br><b>React.js</b></td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" /><br><b>Next.js</b></td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" /><br><b>Tailwind CSS</b></td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redux" width="55" height="55" /><br><b>Redux</b></td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white" /><br><b>Zustand</b></td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" /><br><b>GSAP</b></td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" /><br><b>Framer Motion</b></td>
-  </tr>
-</table>
-
-### Backend & Databases
-<table align="center">
-  <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" /><br><b>Node.js</b></td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="55" height="55" /><br><b>Express.js</b></td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" /><br><b>MongoDB</b></td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgresql" width="55" height="55" /><br><b>PostgreSQL</b></td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br><b>MySQL</b></td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=drizzle&logoColor=white" /><br><b>Drizzle ORM</b></td>
-  </tr>
-</table>
-
-### Tools & Technologies
-<table align="center">
-  <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br><b>Git</b></td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br><b>GitHub</b></td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postman" width="55" height="55" /><br><b>Postman</b></td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br><b>VS Code</b></td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" /><br><b>JWT</b></td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" /><br><b>Zod</b></td>
-  </tr>
-</table>
-
-### APIs & Integrations
-<table align="center">
-  <tr>
-    <td align="center" width="110"><img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" /><br><b>Razorpay</b></td>
-    <td align="center" width="110"><img src="https://img.shields.io/badge/Google_GenAI-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br><b>GenAI</b></td>
-    <td align="center" width="110"><img src="https://img.shields.io/badge/Inngest-6366F1?style=for-the-badge&logo=appveyor&logoColor=white" /><br><b>Inngest</b></td>
-    <td align="center" width="110"><img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" /><br><b>Cloudinary</b></td>
-    <td align="center" width="110"><img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" /><br><b>WebSocket</b></td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<a href="https://github.com/theapsaurabh">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
-</a>
-
-<a href="https://github.com/theapsaurabh">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" alt="GitHub Streak" />
-</a>
-
-<a href="https://github.com/theapsaurabh">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-</a>
-
-<a href="https://github.com/theapsaurabh">
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Contribution Graph" />
-</a>
-
-</div>
-
-<p align="center">
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-
----
-
-## 🎓 Experience & Education
 
 ### 💼 Professional Experience
 
-#### **IBM SkillBuild Virtual Internship** | Remote
-**Frontend Development Intern** | *Jul 2025 – Aug 2025*
+<table>
+<tr>
+<td width="100%">
 
-- ✅ Completed intensive frontend development training covering **HTML5, CSS3, JavaScript ES6+, React.js**
+**🏢 IBM SkillBuild Virtual Internship** | 🌐 Remote  
+**👨‍💻 Role:** Frontend Development Intern  
+**📅 Duration:** Jul 2025 – Aug 2025
+
+**🎯 Key Responsibilities & Learnings:**
+- ✅ Completed intensive **frontend development training** covering HTML5, CSS3, JavaScript ES6+, and React.js
 - ✅ Mastered modern **state management patterns** using Redux and React Hooks
 - ✅ Built responsive user interfaces with **best practices in component architecture**
 - ✅ Hands-on project implementation with **real-world scenarios**
+- ✅ Learned **React ecosystem** including routing, forms, and API integration
+- ✅ Gained experience in **debugging** and **performance optimization**
+- ✅ Collaborated with mentors and fellow interns virtually
 
-### 🎓 Education
+**💡 Skills Gained:**
+`React.js` • `Redux` • `React Hooks` • `Responsive Design` • `Component Architecture` • `State Management`
 
-**Galgotias College of Engineering and Technology** | Greater Noida, India  
-**Bachelor of Technology in Computer Science and Engineering (AI & ML)**  
-*Nov 2022 – Aug 2026* | **CGPA: 7.5/10**
-
-**Core Subjects:** Data Structures & Algorithms, Operating Systems, Computer Networks, DBMS, OOPs
+</td>
+</tr>
+</table>
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Achievements
 
 <div align="center">
 
-| Certification | Issuer | Status |
-|--------------|--------|---------|
-| 🎓 **Frontend Development** | IBM SkillsBuild | ✅ Certified |
-| 🎓 **Full Stack Web Development** | - | ✅ Certified |
-| 💻 **350+ DSA Problems** | LeetCode & GeeksforGeeks | 🔥 Ongoing |
+### 🏆 Recognition & Growth
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 
 </div>
 
+<table align="center">
+<tr>
+<td align="center">
+
+**🎓 IBM SkillsBuild**  
+Frontend Development  
+*Certified - Aug 2025*
+
+</td>
+<td align="center">
+
+**🎓 Full Stack Web Development**  
+Complete MERN Stack  
+*Certified - 2025*
+
+</td>
+<td align="center">
+
+**💻 350+ DSA Problems**  
+LeetCode & GeeksforGeeks  
+*Ongoing Journey*
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**🚀 2+ Production Apps**  
+Live & Deployed  
+*SageMate & Prescripto*
+
+</td>
+<td align="center">
+
+**🔥 AI Integration**  
+Google GenAI  
+*Hands-on Experience*
+
+</td>
+<td align="center">
+
+**💳 Payment Gateway**  
+Razorpay Integration  
+*Production Ready*
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 💡 What I'm Currently Learning
+## 💡 Currently Learning & Exploring
 
 <div align="center">
 
+### 🌱 My Growth Path
+
 ```mermaid
 mindmap
-  root((Learning Path))
-    System Design
+  root((Growth Journey))
+    System Design Fundamentals
       Scalable Architecture
-      Load Balancing
+      Load Balancing Concepts
       Database Optimization
       Caching Strategies
+      API Design Patterns
     Cloud & DevOps
-      Docker & Kubernetes
-      AWS Services
+      Docker Basics
+      AWS Fundamentals
       CI/CD Pipelines
-      Infrastructure as Code
-    Advanced Frontend
+      Deployment Strategies
+    Advanced Development
       Performance Optimization
-      Testing (Jest, RTL)
-      Micro-frontends
-      Web Performance
-    Backend Scaling
-      Microservices
-      Message Queues
-      Event Sourcing
-      API Gateway
+      Testing Jest & RTL
+      TypeScript Advanced Patterns
+      Microservices Architecture
+    Problem Solving
+      Advanced DSA Topics
+      System Design Practice
+      Competitive Programming
+      Code Reviews & Best Practices
 ```
 
 </div>
 
----
+<div align="center">
 
-## 📈 Contribution Graph
+| 🔭 **Current Focus** | 📚 **Learning Path** | 🎯 **Goal** |
+|---------------------|---------------------|------------|
+| Advanced System Design | Designing scalable systems | Build production-grade apps |
+| Docker & Kubernetes | Containerization basics | Deploy complex applications |
+| AWS Cloud Services | EC2, S3, Lambda | Cloud-native development |
+| GraphQL | Modern API development | Alternative to REST |
+| Testing Frameworks | Jest, React Testing Library | Write robust test suites |
 
-<p align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true" alt="Contribution Graph" width="95%">
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
-</p>
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/theapsaurabh/theapsaurabh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+<div align="center">
+
+### 🎮 Watch My Contributions Come Alive!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Theapsaurabh/Theapsaurabh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Theapsaurabh/Theapsaurabh/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Theapsaurabh/Theapsaurabh/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 ---
 
-## 📌 Pinned Repositories
-
-<p align="center">
-    <a href="https://github.com/theapsaurabh/sagemate">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=sagemate&theme=tokyonight&icon_color=6366F1&text_color=6366F1&bg_color=0D1117&hide_border=true" />
-    </a>
-    <a href="https://github.com/theapsaurabh/prescripto">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=prescripto&theme=tokyonight&icon_color=6366F1&text_color=6366F1&bg_color=0D1117&hide_border=true" />
-    </a>
-</p>
-
----
-
-## 🤝 Let's Connect & Collaborate
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-### 💬 I'm Open To:
-
-🎯 **Full Stack Developer Opportunities** | 🚀 **SDE Roles** | 💡 **Freelance Projects**  
-🤝 **Open Source Contributions** | 📈 **Tech Discussions** | ☕ **Coffee Chats about Code**
-
-### 📫 Reach Me At:
+### 🎖️ Achievements Unlocked
 
 <p align="center">
- <a href="https://linkedin.com/in/yourprofile" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>
- <a href="https://github.com/theapsaurabh" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
- </a>
- <a href="https://leetcode.com/yourprofile" target="_blank">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
- </a>
- <a href="mailto:ampsaurabh88877@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
- </a>
- <a href="https://your-portfolio.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" />
- </a>
- <a href="tel:+917355018077" target="_blank">
-  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
- </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Theapsaurabh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 </p>
 
 </div>
 
 ---
 
-## 💭 Random Dev Quote
+## 📌 Pinned Repositories
+
+<div align="center">
+
+### ⭐ My Best Work
+
+</div>
+
+<p align="center">
+    <a href="https://github.com/Theapsaurabh/sagemate">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Theapsaurabh&repo=sagemate&theme=tokyonight&icon_color=6366F1&text_color=FFFFFF&bg_color=0D1117&hide_border=true" />
+    </a>
+    <a href="https://github.com/Theapsaurabh/prescripto">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Theapsaurabh&repo=prescripto&theme=tokyonight&icon_color=6366F1&text_color=FFFFFF&bg_color=0D1117&hide_border=true" />
+    </a>
+</p>
+
+---
+
+## 🎯 2025 Goals & Aspirations
+
+<div align="center">
+
+### 🚀 What I'm Working Towards
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**💼 Career Goals**
+
+🎯 Land SDE role at product company  
+📈 Contribute to impactful projects  
+🤝 Work with talented teams  
+💡 Build scalable solutions  
+🌟 Make a real difference
+
+</td>
+<td width="33%" align="center">
+
+**📚 Learning Goals**
+
+🧠 Master System Design  
+☁️ Learn Cloud Technologies  
+🐳 Docker & Kubernetes  
+🧪 Testing & CI/CD  
+📊 Advanced DSA patterns
+
+</td>
+<td width="33%" align="center">
+
+**🚀 Project Goals**
+
+🔨 Build 2 more production apps  
+🌐 Contribute to open source  
+📝 Write technical blogs  
+👨‍🏫 Help aspiring developers  
+🎥 Create coding tutorials
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+### 💬 I'm Always Open To
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
+
+<div align="center">
+
+🎯 **SDE Opportunities & Internships**  
+🚀 **Freelance Web Development Projects**  
+💡 **Open Source Collaborations**  
+📈 **Mentorship & Learning Together**  
+🤔 **Tech Discussions & Problem Solving**  
+☕ **Coffee Chats About Code & Career**
+
+</div>
+
+### 📫 Reach Out To Me
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="200">
+
+**💼 Professional**
+
+<a href="https://www.linkedin.com/in/saurabh-pandey-b52240269" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:ampsaurabh88877@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="tel:+917355018077" target="_blank">
+  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+</td>
+<td align="center" width="200">
+
+**💻 Coding Platforms**
+
+<a href="https://github.com/Theapsaurabh" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/Theapsaurabh13/" target="_blank">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/theampsaurabh/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+</td>
+<td align="center" width="200">
+
+**🌐 Social Media**
+
+<a href="https://x.com/ampsaurabh" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/theapsaurabh/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+**📧 Email:** ampsaurabh88877@gmail.com  
+**📱 Phone:** +91-7355018077  
+**📍 Location:** Greater Noida, Uttar Pradesh, India
+
+</div>
+
+---
+
+## 💭 Random Dev Wisdom
 
 <div align="center">
 
@@ -436,18 +593,24 @@ mindmap
 
 ---
 
-## 📊 Profile Views & Visitors
+## 📊 Profile Analytics
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?theapsaurabh=theapsaurabh&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+### 👀 Profile Visitors & Stats
 
-<a href="https://github.com/theapsaurabh?tab=followers">
-  <img src="https://img.shields.io/github/followers/theapsaurabh?label=Followers&style=for-the-badge&color=6366f1" alt="GitHub Followers" />
+![Profile Views](https://komarev.com/ghpvc/?username=Theapsaurabh&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+
+<a href="https://github.com/Theapsaurabh?tab=followers">
+  <img src="https://img.shields.io/github/followers/Theapsaurabh?label=Followers&style=for-the-badge&color=6366f1&labelColor=0D1117" alt="GitHub Followers" />
 </a>
 
-<a href="https://github.com/theapsaurabh?tab=stars">
-  <img src="https://img.shields.io/github/stars/theapsaurabh?label=Stars&style=for-the-badge&color=fbbf24" alt="GitHub Stars" />
+<a href="https://github.com/Theapsaurabh?tab=repositories">
+  <img src="https://img.shields.io/badge/Total_Repos-10+-fbbf24?style=for-the-badge&labelColor=0D1117" alt="Total Repositories" />
+</a>
+
+<a href="https://github.com/Theapsaurabh">
+  <img src="https://img.shields.io/badge/Total_Contributions-500+-10b981?style=for-the-badge&labelColor=0D1117" alt="Total Contributions" />
 </a>
 
 </div>
@@ -456,18 +619,33 @@ mindmap
 
 <div align="center">
 
-### 💖 Thanks for Visiting! 
+### 💖 Thanks for Visiting My Profile!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=%E2%AD%90+Star+my+repos+if+you+find+them+useful!;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Open+to+SDE+opportunities;%F0%9F%93%A7+Let's+build+something+amazing+together!;%F0%9F%9A%80+Always+learning%2C+always+growing" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
 
-**⚡ "First, solve the problem. Then, write the code." – John Johnson**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=700&lines=%E2%AD%90+Star+my+repositories+if+you+find+them+useful!;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Open+to+SDE+opportunities+and+collaborations;%F0%9F%93%A7+Let's+build+something+amazing+together!;%F0%9F%9A%80+Always+learning%2C+always+growing;%F0%9F%92%AA+Aspiring+to+make+an+impact+through+code;%E2%9C%A8+From+ideas+to+reality%2C+one+commit+at+a+time" alt="Typing SVG" />
+
+<br><br>
+
+**⚡ Life Philosophy**
+
+*"First, solve the problem. Then, write the code."* – John Johnson
+
+*"The only way to do great work is to love what you do."* – Steve Jobs
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 <br>
 
-Made with ❤️ and ☕ by **Saurabh Arimardan Pandey**
+---
+
+### 🌟 *Aspiring Developer | Problem Solver | Lifelong Learner*
+
+---
 
 <br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
+**Made with ❤️, ☕, and countless hours of debugging by Saurabh Arimardan Pandey**
 
-</div>
+
+
